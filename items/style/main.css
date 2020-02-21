@@ -1,12 +1,7 @@
 /* Utility */
 .tombol {
     text-transform: uppercase;
-    border-radius: 40px;
-}
-
-h4 {
-    font-size: 16px;
-    font-weight: bold;
+    border-radius: 7px;
 }
 
 p {
