@@ -1,0 +1,43 @@
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+
+    .navbar-brand,
+    .nav-link {
+        color: #ffffff !important;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.192);
+    }
+
+    .nav-link {
+        text-transform: uppercase;
+        margin-right: 30px;
+    }
+
+    .nav-link:hover::after {
+        content: '';
+        display: block;
+        border-bottom: 3px solid #0B63DC;
+        width: 50%;
+        margin: auto;
+        padding-bottom: 5px;
+        margin-bottom: -8px;
+    }
+
+    .jumbotron {
+        margin-top: -75px;
+        height: 640px;
+    }
+
+    .jumbotron .display-4 {
+        font-size: 62px;
+    }
+}
+
+
+/* MOBILE VERSION */
+@media (max-width: 992px) {
+
+    .ipContent {
+        margin-top: 25px !important;
+        margin-bottom: 25px !important;
+    }
+}
