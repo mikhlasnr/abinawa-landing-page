@@ -86,5 +86,42 @@
     margin: 30px 0;
 }
 
-.workingspace .tombol {
+/* Testimonial */
+.testimonial {
+    margin-top: 100px;
+}
+
+.testimonial h4 {
+    text-align: center;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 32px;
+    margin-bottom: 40px;
+}
+
+figure{
+    text-align: center;
+}
+
+.testimonial img {
+    width: 70px;
+    opacity: 0.5;
+}
+
+.testimonial-active {
+    margin: -10px 30px 0PX;
+}
+.testimonial-active img{
+    opacity: 1;
+    width: 90px;
+    
+}
+
+/* Footer */
+.footer {
+    margin-top: 100px;
+}
+.footer p{
+    color: #acacac;
+    font-size: 18px;
 }

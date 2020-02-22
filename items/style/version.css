@@ -62,4 +62,9 @@
    .workingspace p {
        font-size: 16px;
    }
+
+   /* Testimonial */
+   .testimonial h4 {
+       font-size: 18px;
+   }
 }
